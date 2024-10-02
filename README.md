@@ -1,4 +1,4 @@
-### Ley de Derechos de Autor de la Era Digital(DMCA):
+# Ley de Derechos de Autor de la Era Digital(DMCA):
  (Digital Millennium Copyright Act o DMCA por sus siglas en inglés) es una legislación de Estados Unidos que tiene como objetivo adaptar las leyes de derechos de autor al entorno digital y proteger la propiedad intelectual en la era de internet y las tecnologías emergentes. La ley fue promulgada el 28 de octubre de 1998 y se basa en los acuerdos internacionales establecidos en el Tratado de la OMPI sobre Derecho de Autor y el Tratado de la OMPI sobre Interpretación o Ejecución y Fonogramas, adoptados en 1996 por la Organización Mundial de la Propiedad Intelectual (OMPI).
 
 ![DMCA](https://github.com/RobertoFeliuBr/DMCA/blob/main/dmca.png)
@@ -18,7 +18,7 @@ Las empresas de internet (como YouTube o Facebook) no son responsables del conte
 La ley establece reglas para proteger las transmisiones de música y video en internet, como las que se ven en servicios de streaming.
 
 
-# En resumen, la DMCA busca evitar la piratería digital, pero también incluye excepciones para algunos usos legítimos y protege a las empresas de internet de ser responsables por todo lo que publican sus usuarios.
+### En resumen, la DMCA busca evitar la piratería digital, pero también incluye excepciones para algunos usos legítimos y protege a las empresas de internet de ser responsables por todo lo que publican sus usuarios.
 
 
 
