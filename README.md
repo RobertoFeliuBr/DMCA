@@ -6,12 +6,15 @@
 ##PRINCIPALES MEDIDAS:
 
 1. Prohibido saltarse protecciones tecnológicas:
+
 No se puede burlar o "hackear" sistemas que protegen contenido digital, como películas, música o software, para evitar que se copie de manera ilegal.
 
 2. Protección para proveedores de internet:
+
 Las empresas de internet (como YouTube o Facebook) no son responsables del contenido ilegal que sus usuarios publiquen, siempre que eliminen rápidamente ese contenido cuando el dueño de los derechos lo pida.
 
 3. Protección para transmisiones en línea:
+
 La ley establece reglas para proteger las transmisiones de música y video en internet, como las que se ven en servicios de streaming.
 
 
