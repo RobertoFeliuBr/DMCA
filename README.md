@@ -2,6 +2,7 @@
  (Digital Millennium Copyright Act o DMCA por sus siglas en inglés) es una legislación de Estados Unidos que tiene como objetivo adaptar las leyes de derechos de autor al entorno digital y proteger la propiedad intelectual en la era de internet y las tecnologías emergentes. La ley fue promulgada el 28 de octubre de 1998 y se basa en los acuerdos internacionales establecidos en el Tratado de la OMPI sobre Derecho de Autor y el Tratado de la OMPI sobre Interpretación o Ejecución y Fonogramas, adoptados en 1996 por la Organización Mundial de la Propiedad Intelectual (OMPI).
 
 ![DMCA](https://github.com/RobertoFeliuBr/DMCA/blob/main/dmca.png)
+
 ##PRINCIPALES MEDIDAS:
 
 1. Prohibido saltarse protecciones tecnológicas:
